@@ -1,0 +1,1 @@
+User-agent: *\nAllow: /\n\nSitemap: https://lnwaith-sudo.github.io/ais5g/sitemap.xml\n
